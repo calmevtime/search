@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../cs188/artificial-intelligence/Project1-search/.idea/Project1-search.iml" filepath="$PROJECT_DIR$/../../cs188/artificial-intelligence/Project1-search/.idea/Project1-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/search.iml" filepath="$PROJECT_DIR$/.idea/search.iml" />
+    </modules>
+  </component>
+</project>
